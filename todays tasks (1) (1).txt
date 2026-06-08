@@ -1,0 +1,8 @@
+Todays tasks:
+
+
+1. create a folder path called (folder1/folder2/folder3)
+2. now create a file called devops on folder3
+
+
+
