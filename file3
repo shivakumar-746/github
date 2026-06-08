@@ -1,0 +1,5 @@
+Explanation:
+
+BufferedReader reader = new BufferedReader(new InputStreamReader(System.in)); -> Reads input as text.
+Integer.parseInt(reader.readLine()) -> Converts the string input into an integer.
+System.out.println() -> Displays the integer value entered by the user.
