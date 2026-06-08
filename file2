@@ -1,0 +1,5 @@
+Explanation:
+
+Scanner sc = new Scanner(System.in); -> Creates a Scanner object to take input.
+nextInt() -> Reads an integer value entered by the user.
+System.out.println() -> Prints the entered integer on the screen.
